@@ -1,0 +1,39 @@
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+    .banner-img img{
+      padding-top: 50px;
+    }
+  
+    .banner-img{
+      padding: 0;
+  
+    }
+   
+   
+      
+  }
+  .demo:hover{
+    background-color: #5F6FFF;
+    color: white;
+  }
+  .explore-more:hover{
+    background-color:black;
+    color: white;
+  }
+  .explore-more{
+    background-color: white;
+  }
+  .time-btn:hover{
+    background-color: #5F6FFF;
+    color: white;
+  }
+  .time-btn{
+    background-color: white;
+  }
+  .day-btn{
+    background-color: white;
+  }
+  .day-btn:hover{
+    background-color: #5F6FFF;
+    color: white;
+  }
+  
